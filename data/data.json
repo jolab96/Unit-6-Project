@@ -1,0 +1,87 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "an app that displays random famous quotes each time a button is clicked. You will select your own quotes from famous historical figures, artists, scientists, celebrities, etc.",
+            "technologies": [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://jolab96.github.io/Unit-1-Project/",
+            "github_link": "https://github.com/jolab96/Unit-1-Project",
+            "image_urls": [
+                "../static/images/project1_pic1.PNG",
+                "../static/images/project1_pic2.png",
+                "../static/images/project1_pic3.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination & Filtering",
+            "description": "using a common web development technique known as 'pagination' to enhance the usability of a web page.",
+            "technologies": [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://jolab96.github.io/Unit-2-Project/",
+            "github_link": "https://github.com/jolab96/Unit-2-Project",
+            "image_urls": [
+                "../static/images/project2_pic1.PNG",
+                "../static/images/project2_pic2.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "A webpage that uses JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf'.",
+            "technologies": [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://jolab96.github.io/Unit-3-Project/",
+            "github_link": "https://github.com/jolab96/Unit-3-Project",
+            "image_urls": [
+                "../static/images/project3_pic1.PNG",
+                "../static/images/project3_pic2.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Game Show App",
+            "description": "An app that uses Javascript and Object-Oriented Programming to create a browser-based, word guessing game: 'Phrase Hunter.' ",
+            "technologies": [
+                "Javascript",
+                "CSS",
+                "HTML",
+                "Object-Oriented Programming"
+            ],
+            "live_link": "https://jolab96.github.io/Unit-2-Project/",
+            "github_link": "https://github.com/jolab96/Unit-2-Project",
+            "image_urls": [
+                "../static/images/project4_pic1.PNG",
+                "../static/images/project4_pic2.png",
+                "../static/images/project4_pic3.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+            "technologies": [
+                "Javascript",
+                "CSS",
+                "HTML"
+            ],
+            "live_link": "https://jolab96.github.io/Unit-2-Project/",
+            "github_link": "https://github.com/jolab96/Unit-2-Project",
+            "image_urls": [
+                "../static/images/project5_pic1.PNG",
+                "../static/images/project5_pic2.png"
+            ]
+        }
+    ]
+}
